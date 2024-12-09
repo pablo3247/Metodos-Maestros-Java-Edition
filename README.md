@@ -1,4 +1,4 @@
 # Metodos-Maestros-Java-Edition
 Los metodos maestros para dominar el lenguaje de programacion Java :)
 
-![](https://ih1.redbubble.net/image.4111534298.7853/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp){width='10px' height='10px'}
+![Funny cat programmer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_joQ9lzpn6h_fURFu21n2CHD08Rila2yDoQ&s)
